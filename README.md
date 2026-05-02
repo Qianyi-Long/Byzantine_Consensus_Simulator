@@ -1,6 +1,6 @@
 # Byzantine Consensus Simulator
 
-An interactive React + Vite webpage for exploring the Byzantine generals problem through the Lamport-Shostak-Pease oral messages algorithm, OM(m). Users mark generals as loyal or Byzantine, and the simulator derives the OM depth from that count while visualizing recursive message forwarding and majority decisions.
+An interactive React + Vite webpage for exploring the Byzantine generals problem through the Lamport-Shostak-Pease oral messages algorithm, OM(m). Users mark generals as loyal or Byzantine, and the simulator derives the OM depth from that count while visualizing recursive message forwarding and majority decisions. as
 
 ## Local Development
 
